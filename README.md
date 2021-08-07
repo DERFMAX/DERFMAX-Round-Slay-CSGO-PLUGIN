@@ -19,9 +19,9 @@ This plugin makes it easy for you to kill a player as many times as you want wit
 
 ### Usage
 
-- To put a slay: !rslay <target> <round(s)>
+- To put a slay: !rslay "target" "round(s)"
   
-- To quit a slay: !cancelrslay <target>
+- To quit a slay: !cancelrslay "target"
 
 
 ## Help
