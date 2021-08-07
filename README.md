@@ -13,7 +13,7 @@ This plugin makes it easy for you to kill a player as many times as you want wit
 ### Installation
 
 1. Download the latest version.
-2. Put deletemap.smx in the directory /addons/sourcemod/plugins/
+2. Put roundslay.smx in the directory /addons/sourcemod/plugins/
 3. Restart the server/change the current map.
 
 
